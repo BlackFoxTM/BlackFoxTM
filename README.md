@@ -29,6 +29,6 @@
 > Language usage
 
 <div align="center">
-    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=BlackFoxTM&theme=gruvbox_light&layout=compact"/>
+    <img height="200px" style="border:none; border-radius:5px;" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=BlackFoxTM&theme=gruvbox_light&layout=compact"/>
 </div>
 
