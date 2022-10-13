@@ -19,7 +19,7 @@
 ### Telegram Channel 
 
 <a href="https://t.me/BlackFoxSecurityTeam">
-  <img align="left" alt="BFST Telegram" width="22px" src="https://www.iconfinder.com/icons/3069742/download/png/512" />
+  <img align="left" alt="BFST Telegram" width="22px" src="https://www.iconfinder.com/icons/3069742/download/png/512" style="margin-bottm:20px;" />
 </a>
 
 
