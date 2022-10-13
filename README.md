@@ -1,7 +1,7 @@
 # B F S T 
  ### Black Fox Security Team 
  
-<img alt="MaximumRadikali" src="https://www.uplooder.net/img/image/80/b49cfc70b4259417faa0bd05bc6345ff/photo-2022-07-22-00-48-31.jpg" width="320" height="240"/>
+<img style="border:none; border-radius:5px;" alt="MaximumRadikali" src="https://www.uplooder.net/img/image/80/b49cfc70b4259417faa0bd05bc6345ff/photo-2022-07-22-00-48-31.jpg" width="320" height="240"/>
  
 #### Content : 
 > Script Tools Penteting & Cracking 
